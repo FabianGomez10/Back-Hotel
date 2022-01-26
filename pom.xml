@@ -8,7 +8,7 @@
         <version>2.5.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>mintic.misiontic.usa.ciclo3.grupo5.equipo2.SistemaHotelesAPI</groupId>
+    <groupId>hotel.api.web</groupId>
     <artifactId>SistemaHotelesAPI</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SistemaHotelesAPI</name>
